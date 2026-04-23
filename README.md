@@ -3,7 +3,7 @@
 Connect Now is a feature-rich, full-stack chat application that brings seamless real-time messaging and peer-to-peer video calling to users. With a responsive modern UI, robust notification system, file sharing, automated event reminders, and strong privacy controls, it’s designed for vibrant conversations and personal connections.
 
 
-🧑‍💻 **Test Account**
+🧑‍💻 **Test Account***
 - Username: vasanthgoud79@gmail.com
 - Password: 123456
 
